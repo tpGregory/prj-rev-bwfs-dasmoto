@@ -1,9 +1,9 @@
-html {
+html {  /* Helvetica font for the entire page */
   font-family: Helvetica;
 }
 
 
-h1 {
+h1 {  /* All of the required styling of the title */
   font-size: 100px;
   font-weight: bold;
   text-align: center;
@@ -12,29 +12,29 @@ h1 {
 }
 
 
-h2 {
+h2 {  /* Style edits for each of the section titles */
   font-size: 32px;
   font-weight: bold;
   color: white;
 }
 
 
-#brushes-head {
+#brushes-head { /* Background color for the brush section */
   background-color: mediumspringgreen;
 }
 
 
-#frames-head {
+#frames-head {  /* Background color for the frames section */
   background-color: lightcoral;
 }
 
 
-#paint-head {
+#paint-head { /* Background color for the paint section */
   background-color: skyblue;
 }
 
 
-.price {
+.price {  /* Styles the price info in each section of the article */
   color: blue;
   font-weight: bold;
 }
